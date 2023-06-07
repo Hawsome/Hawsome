@@ -9,8 +9,13 @@ I'm Olaoluwa "Awesome" Akinfenwa, a Full-stack web developer. I am passionate ab
 
 Here are some of the technical skills and tools I'm proficient in:
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html)](https://github.com/hawsome)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/hawsome)
-
+[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/hawsome)
+[![JavaScript](https://img.shields.io/badge/css-black?style=for-the-badge&logo=javascript)](https://github.com/hawsome)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/hawsome)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)](https://github.com/hawsome)
+[![WordPress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)](https://github.com/hawsome)
+[![Webflow](https://img.shields.io/badge/webflow-black?style=for-the-badge&logo=webflow)](https://github.com/hawsome)
+[![JQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/hawsome)
 - HTML, CSS, JS, , PHP, SQL
 - CMS: WordPress, Webflow
 - Frameworks: JQuery
