@@ -8,6 +8,7 @@ I'm Olaoluwa "Awesome" Akinfenwa, a Full-stack web developer. I am passionate ab
 ## Skills
 
 Here are some of the technical skills and tools I'm proficient in:
+
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html)](https://github.com/hawsome)
 [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/hawsome)
 [![JavaScript](https://img.shields.io/badge/css-black?style=for-the-badge&logo=javascript)](https://github.com/hawsome)
