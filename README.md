@@ -8,10 +8,12 @@ I'm Olaoluwa "Awesome" Akinfenwa, a Full-stack web developer. I am passionate ab
 ## Skills
 
 Here are some of the technical skills and tools I'm proficient in:
+[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html)](https://github.com/hawsome)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/hawsome)
 
 - HTML, CSS, JS, , PHP, SQL
 - CMS: WordPress, Webflow
-- Frameworks: JQ
+- Frameworks: JQuery
 
 ## 0S
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/hawsome)
