@@ -44,11 +44,11 @@ I am constantly exploring new technologies and learning to stay up-to-date with 
 </p>
 </details>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/hawsome">
     <img src="https://komarev.com/ghpvc/?username=hawsome&color=blue&style=flat)" />
   </a>
-</p>
+</p> -->
 
 ## Contact Information
 
