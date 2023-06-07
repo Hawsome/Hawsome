@@ -23,9 +23,32 @@ Here are some of the technical skills and tools I'm proficient in:
 
 ## 0S
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/hawsome)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/hawsome)
 
 I am constantly exploring new technologies and learning to stay up-to-date with the latest industry trends.
+
+<details>
+<p align="center">
+  <a href="https://github.com/hawsomme">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawsome&theme=transparent" />
+  </a>
+  <a href="https://github.com/hawsome">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawsome&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/hawsome">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hawsome&theme=transparent" />
+  </a>
+  <a href="https://github.com/hawsome">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawsome&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/hawsome">
+    <img src="https://komarev.com/ghpvc/?username=hawsome&color=blue&style=flat)" />
+  </a>
+</p>
 
 ## Contact Information
 
