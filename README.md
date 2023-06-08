@@ -61,9 +61,6 @@ You can reach me via:
  <a href="https://www.twitter.com/hawsome_a" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter">
     </a>
-
-
-
 Feel free to get in touch! I'm always open to new opportunities and collaborations.
 <!--
 **Hawsome/hawsome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
