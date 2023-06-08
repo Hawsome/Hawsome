@@ -55,6 +55,9 @@ I am constantly exploring new technologies and learning to stay up-to-date with 
 You can reach me via:
 
 - LinkedIn: [https://www.linkedin.com/in/olaoluwa-akinfenwa-b44026208]
+<a href="https://www.linkedin.com/in/olaoluwa-akinfenwa-b44026208">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
 - Twitter: https://www.twitter.com/hawsome_a
 
 Feel free to get in touch! I'm always open to new opportunities and collaborations.
