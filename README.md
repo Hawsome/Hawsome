@@ -28,7 +28,7 @@ Here are some of the technical skills and tools I'm proficient in:
 I am constantly exploring new technologies and learning to stay up-to-date with the latest industry trends.
 
 <details>
-<p>
+<p align="center">
   <a href="https://github.com/hawsomme">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawsome&theme=transparent" />
   </a>
@@ -44,11 +44,11 @@ I am constantly exploring new technologies and learning to stay up-to-date with 
 </p>
 </details>
 
-<p>
+<!-- <p align="center">
   <a href="https://github.com/hawsome">
     <img src="https://komarev.com/ghpvc/?username=hawsome&color=blue&style=flat)" />
   </a>
-</p>
+</p> -->
 
 ## Contact Information
 
