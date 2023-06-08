@@ -60,7 +60,6 @@ You can reach me via:
 - <a href="https://www.twitter.com/hawsome_a>
         <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter">
     </a> 
-Twitter: https://www.twitter.com/hawsome_a
 
 Feel free to get in touch! I'm always open to new opportunities and collaborations.
 <!--
