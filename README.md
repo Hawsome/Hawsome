@@ -54,7 +54,7 @@ I am constantly exploring new technologies and learning to stay up-to-date with 
 
 You can reach me via:
 
-- <a href="https://www.linkedin.com/in/olaoluwa-akinfenwa-b44026208">
+- <a href="https://www.linkedin.com/in/olaoluwa-akinfenwa-b44026208" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     
