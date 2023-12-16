@@ -58,7 +58,7 @@ You can reach me via:
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     
- <a href="https://www.twitter.com/hawsome_a" target="_blank">
+ <a href="https://twitter.com/awesomeakin" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter">
     </a>
 
