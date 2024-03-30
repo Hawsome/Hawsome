@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-I'm Olaoluwa "Awesome" Akinfenwa, a Full-stack web developer. I am passionate about crafting seamless user experiences through intuitive design and optimized functionality. When I'm not coding, you can find me gaming or diving into a good book. My love for problem-solving extends beyond the computer screen, and I am always eager to tackle new challenges both in and out of work.
+I'm Olaoluwa "Awesome" Akinfenwa, a full-stack web developer. I am passionate about crafting seamless user experiences through intuitive design and optimized functionality. You can find me gaming or diving into a good book when I'm not coding. My love for problem-solving extends beyond the computer screen, and I am always eager to tackle new challenges in and out of work.
 
 ## Skills
 
@@ -17,7 +17,7 @@ Here are some of the technical skills and tools I'm proficient in:
 [![WordPress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)](https://github.com/hawsome)
 [![Webflow](https://img.shields.io/badge/webflow-black?style=for-the-badge&logo=webflow)](https://github.com/hawsome)
 [![JQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/hawsome)
-- HTML, CSS, JS, , PHP, SQL
+- HTML, CSS, JS, PHP, SQL, MYSQL
 - CMS: WordPress, Webflow
 - Frameworks: JQuery
 
@@ -61,7 +61,7 @@ You can reach me via:
  <a href="https://twitter.com/awesomeakin" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter">
     </a>
-
+<br>
 
 Feel free to get in touch! I'm always open to new opportunities and collaborations.
 <!--
